@@ -59,13 +59,23 @@ Esta aplicación web permite registrar participantes para un juego de Amigo Secr
 
 
 
+
+
+
 ---
 
 ## Capturas y resultados
 
+
+
+
 ---
 
 ## aprendizajes y mejoras futuras 
+
+
+
+
 ---
 
 
