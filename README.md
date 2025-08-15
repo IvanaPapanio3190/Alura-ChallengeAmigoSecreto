@@ -59,11 +59,11 @@ Para clonar y usar el proyecto localmente:
 ```bash
 git clone https://github.com/tuUsuario/amigo-secreto.git
 cd amigo-secreto
-# Abrir index.html con un navegador
+ Abrir index.html con un navegador
 
 ---
 
-## capturas y resultados
+## Capturas y resultados
 
 ---
 
@@ -72,6 +72,8 @@ cd amigo-secreto
 
 
 ## Autor
+
+Made by: [Ivana Papaño](https://github.com/IvanaPapanio3190)
 
 
 
