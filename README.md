@@ -7,41 +7,74 @@ Proyecto del programa ONE - Alura Latam
 
 ---
 
-## Descripción
-Este proyecto permite ingresar nombres de amigos y realizar un sorteo de Amigo Secreto de forma aleatoria.  
-Los usuarios pueden agregar amigos, ver la lista actualizada en pantalla y sortear un nombre al azar.
+## Tabla de Contenidos
+
+- [Descripción del Proyecto](#descripción-del-proyecto)  
+- [Flujo de la Aplicación](#flujo-de-la-aplicación)  
+- [Tecnologías Utilizadas](#tecnologías-utilizadas)  
+- [Instrucciones de Uso](#instrucciones-de-uso)  
+- [Instalación y Ejecución](#instalación-y-ejecución)  
+- [Capturas y Resultados](#capturas-y-resultados)  
+- [Aprendizajes y Mejoras Futuras](#aprendizajes-y-mejoras-futuras)  
+- [Autor](#Autor)
 
 ---
 
-## Funcionalidades
-- Agregar amigos a la lista
-- Mostrar lista actualizada de amigos
-- Sortear un amigo secreto de manera aleatoria
-- Validación para evitar campos vacíos
-- Mostrar el resultado del sorteo en pantalla
+## Descripción del Proyecto
+
+Esta aplicación web permite registrar participantes para un juego de Amigo Secreto, realizando un sorteo automático y asignando un destinatario a cada participante. El objetivo es practicar lógica de programación con JavaScript, interacción básica con el DOM y manejo de eventos.
 
 ---
 
-## Tecnologías
-- HTML
-- CSS
-- JavaScript
+## Flujo de la Aplicación
+
+1. El usuario agrega los nombres de los participantes.  
+2. Los nombres se listan en pantalla para revisión.  
+3. Al ejecutar el sorteo, se asigna aleatoriamente un "amigo secreto" para cada participante, asegurando que nadie se asigne a sí mismo.  
+4. Se muestran los resultados en pantalla.
 
 ---
 
-## Instalación
-1. Clonar este repositorio:
+## Tecnologías Utilizadas
+
+- HTML para la estructura básica.  
+- CSS para estilos simples.  
+- JavaScript para la lógica y manejo del DOM.
+
+---
+
+## Instrucciones de Uso
+
+1. Abrir el archivo `index.html` en un navegador moderno.  
+2. Ingresar nombres en el campo de texto y presionar "Añadirr".  
+3. Cuando estén todos los participantes, hacer clic en "Sortear amigo".  
+4. Ver el resultado del sorteo en pantalla.
+
+---
+
+## Instalación y Ejecución
+
+Para clonar y usar el proyecto localmente:
+
 ```bash
-git clone <URL-del-repo>
-Abrir index.html en un navegador web
+git clone https://github.com/tuUsuario/amigo-secreto.git
+cd amigo-secreto
+# Abrir index.html con un navegador
 
-Empezar a agregar amigos y sortear
+---
 
-Uso
-Ingresar el nombre de un amigo en el campo de texto
+## capturas y resultados
 
-Presionar "Agregar amigo" para añadirlo a la lista
+---
 
-Presionar "Sortear Amigo Secreto" para ver el resultado
+## aprendizajes-y-mejoras-futuras 
+---
 
-Los nombres agregados se muestran en la lista dinámica
+
+## Autor
+
+
+
+
+
+
