@@ -54,12 +54,10 @@ Esta aplicación web permite registrar participantes para un juego de Amigo Secr
 
 ## Instalación y Ejecución
 
-Para clonar y usar el proyecto localmente:
 
-```bash
-git clone https://github.com/tuUsuario/amigo-secreto.git
-cd amigo-secreto
- Abrir index.html con un navegador
+
+
+
 
 ---
 
@@ -67,7 +65,7 @@ cd amigo-secreto
 
 ---
 
-## aprendizajes-y-mejoras-futuras 
+## aprendizajes y mejoras futuras 
 ---
 
 
