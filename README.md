@@ -28,10 +28,10 @@ Esta aplicación web permite registrar participantes para un juego de Amigo Secr
 
 ## Flujo de la Aplicación
 
-1. El usuario agrega los nombres de los participantes.  
-2. Los nombres se listan en pantalla para revisión.  
-3. Al ejecutar el sorteo, se asigna aleatoriamente un "amigo secreto" para cada participante, asegurando que nadie se asigne a sí mismo.  
-4. Se muestran los resultados en pantalla.
+**1.** El usuario agrega los nombres de los participantes.  
+**2.** Los nombres se listan en pantalla para revisión.  
+**3.** Al ejecutar el sorteo, se asigna aleatoriamente un "amigo secreto" para cada participante, asegurando que nadie se asigne a sí mismo.  
+**4.** Se muestran los resultados en pantalla.
 
 ---
 
@@ -45,24 +45,24 @@ Esta aplicación web permite registrar participantes para un juego de Amigo Secr
 
 ## Instrucciones de Uso
 
-1. Abrir el archivo `index.html` en un navegador moderno.  
-2. Ingresar nombres en el campo de texto y presionar "Añadirr".  
-3. Cuando estén todos los participantes, hacer clic en "Sortear amigo".  
-4. Ver el resultado del sorteo en pantalla.
+**1.** Abrir el archivo `index.html` en un navegador moderno.  
+**2.** Ingresar nombres en el campo de texto y presionar "Añadirr".  
+**3.** Cuando estén todos los participantes, hacer clic en "Sortear amigo".  
+**4.** Ver el resultado del sorteo en pantalla.
 
 ---
 
 ## Instalación y Ejecución
 
-1. Clonar el repositorio o descargar los archivos del proyecto:
+**1.** Clonar el repositorio o descargar los archivos del proyecto:
 
     git clone https://github.com/tu-usuario/amigo-secreto.git
     cd amigo-secreto
 
 
-2. Abrir el archivo index.html en un navegador web (Chrome, Edge, Firefox).
+**2.** Abrir el archivo index.html en un navegador web (Chrome, Edge, Firefox).
 
-3. Interactuar con la aplicación:
+**3.** Interactuar con la aplicación:
 
     - Agregar nombres en el campo de texto.
 
