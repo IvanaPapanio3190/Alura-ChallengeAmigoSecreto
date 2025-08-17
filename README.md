@@ -1,5 +1,6 @@
 # Challenge Amigo Secreto
-Proyecto del programa ONE - Alura Latam
+-
+## Proyecto del programa ONE - Alura Latam
 
 
 ![secretFriend](https://github.com/user-attachments/assets/7fc22d70-feef-48d8-98ca-0e007e7b136f)
@@ -57,7 +58,7 @@ Esta aplicación web permite registrar participantes para un juego de Amigo Secr
 **1.** Clonar el repositorio o descargar los archivos del proyecto:
 
     git clone https://github.com/IvanaPapanio3190/Alura-ChallengeAmigoSecreto.git
-    cd Alura-ChallengeAmigo-secreto
+    cd Alura-ChallengeAmigoSecreto
 
 
 **2.** Abrir el archivo index.html en un navegador web (Chrome, Edge, Firefox).
@@ -145,9 +146,6 @@ Made by: Ivana Papaño
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivana-papano)
 
 
-GitHub: [https://github.com/IvanaPapanio3190](https://github.com/IvanaPapanio3190)  
-LinkedIn: [https://www.linkedin.com/in/ivanapap](https://www.linkedin.com/in/ivanapap)  
-Email: 📩 ivana.papanio@gmail.com
 
 ---
 
