@@ -56,7 +56,7 @@ Esta aplicación web permite registrar participantes para un juego de Amigo Secr
 
 **1.** Clonar el repositorio o descargar los archivos del proyecto:
 
-    git clone https://github.com/tu-usuario/amigo-secreto.git
+    git clone https://github.com/IvanaPapanio3190/Alura-ChallengeAmigoSecreto/tree/main.git
     cd amigo-secreto
 
 
