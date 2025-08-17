@@ -54,7 +54,21 @@ Esta aplicación web permite registrar participantes para un juego de Amigo Secr
 
 ## Instalación y Ejecución
 
+1. Clonar el repositorio o descargar los archivos del proyecto:
 
+    git clone https://github.com/tu-usuario/amigo-secreto.git
+    cd amigo-secreto
+
+
+2. Abrir el archivo index.html en un navegador web (Chrome, Edge, Firefox).
+
+3. Interactuar con la aplicación:
+
+    #Agregar nombres en el campo de texto.
+
+    Presionar el botón Agregar para ir guardándolos en la lista.
+
+    Presionar Sortear Amigo para seleccionar un amigo secreto al azar
 
 
 
@@ -81,7 +95,12 @@ Esta aplicación web permite registrar participantes para un juego de Amigo Secr
 
 ## Autor
 
-Made by: [Ivana Papaño](https://github.com/IvanaPapanio3190)
+Made by: Ivana Papaño
+
+- Email: ivana.papanio@gmail.com
+- GitHub: [Ivana Papaño](https://github.com/IvanaPapanio3190)
+- Linkedin: (https://www.linkedin.com/in/ivana-papano)
+  
 
 
 
