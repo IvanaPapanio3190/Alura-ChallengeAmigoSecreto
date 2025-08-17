@@ -25,7 +25,8 @@
 
 ## Descripción del Proyecto
 
-Esta aplicación web permite registrar participantes para un juego de Amigo Secreto, realizando un sorteo automático y asignando un destinatario a cada participante. El objetivo es practicar lógica de programación con JavaScript, interacción básica con el DOM y manejo de eventos.
+Esta aplicación web permite registrar participantes para un juego de Amigo Secreto, realizando un sorteo automático y asignando un destinatario a cada participante. 
+El objetivo es practicar lógica de programación con JavaScript, interacción básica con el DOM y manejo de eventos.
 
 
 ---
