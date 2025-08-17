@@ -76,7 +76,7 @@ Esta aplicación web permite registrar participantes para un juego de Amigo Secr
 ## Capturas y resultados
 
 
-#### Pantalla inicial
+### Pantalla inicial
 
 La pantalla inicial muestra el campo de entrada donde se pueden agregar los nombres de los participantes, junto con los botones para añadir un nombre a la lista y para realizar el sorteo del amigo secreto. Esta vista permite al usuario interactuar de forma sencilla y entender rápidamente cómo usar la aplicación.
 
@@ -85,7 +85,7 @@ La pantalla inicial muestra el campo de entrada donde se pueden agregar los nomb
 
 
 
-#### Lista de participantes
+### Lista de participantes
 
 Aquí se puede ver un ejemplo con varios nombres ya añadidos a la lista. La lista se actualiza dinámicamente a medida que se ingresan nuevos participantes, permitiendo al usuario revisar y confirmar quiénes participarán en el sorteo.
 
@@ -93,7 +93,7 @@ Aquí se puede ver un ejemplo con varios nombres ya añadidos a la lista. La lis
 
 
 
-#### Resultado del sorteo
+### Resultado del sorteo
 
 Esta captura muestra cómo se visualiza el resultado del sorteo, indicando qué persona le ha tocado a quién. De esta forma, el usuario puede ver el resultado final de manera clara y directa, completando el flujo principal de la aplicación.
 
@@ -145,6 +145,9 @@ Made by: Ivana Papaño
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivana-papano)
 
 
+GitHub: [https://github.com/IvanaPapanio3190](https://github.com/IvanaPapanio3190)  
+LinkedIn: [https://www.linkedin.com/in/ivanapap](https://www.linkedin.com/in/ivanapap)  
+Email: 📩 ivana.papanio@gmail.com
 
 ---
 
