@@ -64,11 +64,11 @@ Esta aplicación web permite registrar participantes para un juego de Amigo Secr
 
 **3.** Interactuar con la aplicación:
 
-    - Agregar nombres en el campo de texto.
+- Agregar nombres en el campo de texto.
 
-    - Presionar el botón **Añadir** para ir guardándolos en la lista.
+- Presionar el botón **Añadir** para ir guardándolos en la lista.
 
-    - Presionar **Sortear Amigo** para seleccionar un amigo secreto al azar
+- Presionar **Sortear Amigo** para seleccionar un amigo secreto al azar
 
 
 
