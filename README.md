@@ -76,7 +76,7 @@ Esta aplicación web permite registrar participantes para un juego de Amigo Secr
 ## Capturas y resultados
 
 
-**#Pantalla inicial**
+**##Pantalla inicial**
 
 La pantalla inicial muestra el campo de entrada donde se pueden agregar los nombres de los participantes, junto con los botones para añadir un nombre a la lista y para realizar el sorteo del amigo secreto. Esta vista permite al usuario interactuar de forma sencilla y entender rápidamente cómo usar la aplicación.
 
