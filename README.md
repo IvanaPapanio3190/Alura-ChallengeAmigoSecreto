@@ -75,6 +75,7 @@ Esta aplicación web permite registrar participantes para un juego de Amigo Secr
 
 ## Capturas y resultados
 
+
 **Pantalla inicial**
 
 La pantalla inicial muestra el campo de entrada donde se pueden agregar los nombres de los participantes, junto con los botones para añadir un nombre a la lista y para realizar el sorteo del amigo secreto. Esta vista permite al usuario interactuar de forma sencilla y entender rápidamente cómo usar la aplicación.
@@ -82,7 +83,7 @@ La pantalla inicial muestra el campo de entrada donde se pueden agregar los nomb
 
 ![pantalla_inicial]()
 
----
+
 
 **Lista de participantes**
 
@@ -91,6 +92,10 @@ Aquí se puede ver un ejemplo con varios nombres ya añadidos a la lista. La lis
 ![ingreso_lista_nombres](https://github.com/IvanaPapanio3190/Alura-ChallengeAmigoSecreto/blob/main/Challenge-AmigoSecreto/resources/ingreso_lista_nombres.jpg)
 
 
+
+**Resultado del sorteo**
+
+Esta captura muestra cómo se visualiza el resultado del sorteo, indicando qué persona le ha tocado a quién. De esta forma, el usuario puede ver el resultado final de manera clara y directa, completando el flujo principal de la aplicación.
 
 
 ---
