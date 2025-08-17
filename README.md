@@ -80,8 +80,13 @@ Esta aplicación web permite registrar participantes para un juego de Amigo Secr
 La pantalla inicial muestra el campo de entrada donde se pueden agregar los nombres de los participantes, junto con los botones para añadir un nombre a la lista y para realizar el sorteo del amigo secreto. Esta vista permite al usuario interactuar de forma sencilla y entender rápidamente cómo usar la aplicación.
 
 
-ingreso_lista_nombres.jpg
+![ingreso_lista_nombres]
 
+---
+
+**Lista de participantes**
+
+Aquí se puede ver un ejemplo con varios nombres ya añadidos a la lista. La lista se actualiza dinámicamente a medida que se ingresan nuevos participantes, permitiendo al usuario revisar y confirmar quiénes participarán en el sorteo.
 
 
 
