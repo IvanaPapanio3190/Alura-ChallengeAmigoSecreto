@@ -30,6 +30,7 @@ body {
     width: 100%;
 }
 
+
 /* Banner */
 .header-banner {
     flex: 40%;
@@ -38,6 +39,7 @@ body {
     align-items: center;
     padding: 40px 0 0;
 }
+
 
 /* Sección de entrada */
 .input-section {
@@ -52,6 +54,7 @@ body {
     width: 100%;
 }
 
+
 /* Títulos */
 .main-title {
     font-size: 48px;
@@ -60,6 +63,7 @@ body {
     font-style: italic;
     color: var(--color-white);
 }
+
 
 .section-title {
     font-family: "Inter", serif;
@@ -79,6 +83,7 @@ body {
     margin-top: 20px;
 }
 
+
 .input-name {
     width: 100%;
     padding: 10px;
@@ -92,6 +97,7 @@ body {
     justify-content: center;
 }
 
+
 /* Estilos de entrada de texto */
 .input-title {
     flex: 1;
@@ -103,6 +109,7 @@ body {
     font-family: "Merriweather", serif;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
 }
+
 
 /* Estilos de botón */
 button {
@@ -124,6 +131,7 @@ button {
 .button-add:hover {
     background-color: #a1a1a1;
 }
+
 
 /* Listas */
 ul {
