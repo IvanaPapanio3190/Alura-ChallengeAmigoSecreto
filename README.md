@@ -46,7 +46,7 @@ Esta aplicación web permite registrar participantes para un juego de Amigo Secr
 ## Instrucciones de Uso
 
 **1.** Abrir el archivo `index.html` en un navegador moderno.  
-**2.** Ingresar nombres en el campo de texto y presionar "Añadirr".  
+**2.** Ingresar nombres en el campo de texto y presionar "Añadir".  
 **3.** Cuando estén todos los participantes, hacer clic en "Sortear amigo".  
 **4.** Ver el resultado del sorteo en pantalla.
 
@@ -56,8 +56,8 @@ Esta aplicación web permite registrar participantes para un juego de Amigo Secr
 
 **1.** Clonar el repositorio o descargar los archivos del proyecto:
 
-    git clone https://github.com/IvanaPapanio3190/Alura-ChallengeAmigoSecreto/tree/main.git
-    cd amigo-secreto
+    git clone https://github.com/IvanaPapanio3190/Alura-ChallengeAmigoSecreto.git
+    cd Alura-ChallengeAmigo-secreto
 
 
 **2.** Abrir el archivo index.html en un navegador web (Chrome, Edge, Firefox).
@@ -76,29 +76,29 @@ Esta aplicación web permite registrar participantes para un juego de Amigo Secr
 ## Capturas y resultados
 
 
-**Pantalla inicial**
+**#Pantalla inicial**
 
 La pantalla inicial muestra el campo de entrada donde se pueden agregar los nombres de los participantes, junto con los botones para añadir un nombre a la lista y para realizar el sorteo del amigo secreto. Esta vista permite al usuario interactuar de forma sencilla y entender rápidamente cómo usar la aplicación.
 
 
-![pantalla_inicial](https://github.com/IvanaPapanio3190/Alura-ChallengeAmigoSecreto/blob/main/Challenge-AmigoSecreto/resources/pantalla_inicial.jpg)
+![pantalla_inicial](./resources/pantalla_inicial.jpg)
 
 
 
-**Lista de participantes**
+**#Lista de participantes**
 
 Aquí se puede ver un ejemplo con varios nombres ya añadidos a la lista. La lista se actualiza dinámicamente a medida que se ingresan nuevos participantes, permitiendo al usuario revisar y confirmar quiénes participarán en el sorteo.
 
-![ingreso_lista_nombres](https://github.com/IvanaPapanio3190/Alura-ChallengeAmigoSecreto/blob/main/Challenge-AmigoSecreto/resources/ingreso_lista_nombres.jpg)
+![ingreso_lista_nombres](./resources/ingreso_lista_nombres.jpg)
 
 
 
-**Resultado del sorteo**
+**#Resultado del sorteo**
 
 Esta captura muestra cómo se visualiza el resultado del sorteo, indicando qué persona le ha tocado a quién. De esta forma, el usuario puede ver el resultado final de manera clara y directa, completando el flujo principal de la aplicación.
 
 
-![resultado_sorteado](https://github.com/IvanaPapanio3190/Alura-ChallengeAmigoSecreto/blob/main/Challenge-AmigoSecreto/resources/resultado_sorteado.jpg)
+![resultado_sorteado](./resources/resultado_sorteado.jpg)
 
 
 ---
