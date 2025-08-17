@@ -19,13 +19,17 @@
 - [Aprendizajes y Mejoras Futuras](#aprendizajes-y-mejoras-futuras)  
 - [Autor](#Autor)
 
+
 ---
+
 
 ## Descripción del Proyecto
 
 Esta aplicación web permite registrar participantes para un juego de Amigo Secreto, realizando un sorteo automático y asignando un destinatario a cada participante. El objetivo es practicar lógica de programación con JavaScript, interacción básica con el DOM y manejo de eventos.
 
+
 ---
+
 
 ## Flujo de la Aplicación
 
@@ -34,7 +38,9 @@ Esta aplicación web permite registrar participantes para un juego de Amigo Secr
 **3.** Al ejecutar el sorteo, se asigna aleatoriamente un "amigo secreto" para cada participante, asegurando que nadie se asigne a sí mismo.  
 **4.** Se muestran los resultados en pantalla.
 
+
 ---
+
 
 ## Tecnologías Utilizadas
 
@@ -51,7 +57,9 @@ Esta aplicación web permite registrar participantes para un juego de Amigo Secr
 **3.** Cuando estén todos los participantes, hacer clic en "Sortear amigo".  
 **4.** Ver el resultado del sorteo en pantalla.
 
+
 ---
+
 
 ## Instalación y Ejecución
 
@@ -72,14 +80,19 @@ Esta aplicación web permite registrar participantes para un juego de Amigo Secr
 - Presionar **Sortear Amigo** para seleccionar un amigo secreto al azar
 
 
+
 ---
+
 
 ## Capturas y resultados
 
 
 ### Pantalla inicial
 
-La pantalla inicial muestra el campo de entrada donde se pueden agregar los nombres de los participantes, junto con los botones para añadir un nombre a la lista y para realizar el sorteo del amigo secreto. Esta vista permite al usuario interactuar de forma sencilla y entender rápidamente cómo usar la aplicación.
+La pantalla inicial muestra el campo de entrada para agregar los nombres de los participantes.
+Incluye botones para añadir un nombre a la lista y para realizar el sorteo del amigo secreto.
+Esta vista permite al usuario interactuar de forma sencilla.
+Facilita entender rápidamente cómo usar la aplicación.
 
 
 ![Pantalla Inicial](https://github.com/IvanaPapanio3190/Alura-ChallengeAmigoSecreto/blob/main/Challenge-AmigoSecreto/resources/pantalla_inicial.jpg)
@@ -88,7 +101,9 @@ La pantalla inicial muestra el campo de entrada donde se pueden agregar los nomb
 
 ### Lista de participantes
 
-Aquí se puede ver un ejemplo con varios nombres ya añadidos a la lista. La lista se actualiza dinámicamente a medida que se ingresan nuevos participantes, permitiendo al usuario revisar y confirmar quiénes participarán en el sorteo.
+Aquí se puede ver un ejemplo con varios nombres añadidos a la lista.
+La lista se actualiza dinámicamente a medida que se ingresan nuevos participantes.
+Esto permite al usuario revisar y confirmar quiénes participarán en el sorteo.
 
 ![Ingreso Lista Nombres](https://github.com/IvanaPapanio3190/Alura-ChallengeAmigoSecreto/blob/main/Challenge-AmigoSecreto/resources/ingreso_lista_nombres.jpg)
 
@@ -96,13 +111,18 @@ Aquí se puede ver un ejemplo con varios nombres ya añadidos a la lista. La lis
 
 ### Resultado del sorteo
 
-Esta captura muestra cómo se visualiza el resultado del sorteo, indicando qué persona le ha tocado a quién. De esta forma, el usuario puede ver el resultado final de manera clara y directa, completando el flujo principal de la aplicación.
+Esta captura muestra cómo se visualiza el resultado del sorteo.
+Indica qué persona le ha tocado a quién.
+De esta forma, el usuario puede ver el resultado final de manera clara y directa.
+Así se completa el flujo principal de la aplicación.
 
 
 ![Resultado Sorteado](https://github.com/IvanaPapanio3190/Alura-ChallengeAmigoSecreto/blob/main/Challenge-AmigoSecreto/resources/resultado_sorteado.jpg)
 
 
+
 ---
+
 
 ## Aprendizajes y mejoras futuras 
 
@@ -131,19 +151,17 @@ Esta captura muestra cómo se visualiza el resultado del sorteo, indicando qué 
 ---
 
 
+
 ## Autor
  
-
-Made by: Ivana Papaño
-
-📩 ivana.papanio@gmail.com 
-
+# Made by: Ivana Papaño
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ivana.papanio@gmail.com) 
  
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/IvanaPapanio3190/Alura-ChallengeAmigoSecreto)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivana-papano)
+
 
 
 
