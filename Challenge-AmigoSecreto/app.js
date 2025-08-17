@@ -1,4 +1,6 @@
-// El principal objetivo de este desafío es fortalecer tus habilidades en lógica de programación. Aquí deberás desarrollar la lógica para resolver el problema.
+// El principal objetivo de este desafío es fortalecer tus habilidades en lógica de programación.
+// Aquí deberás desarrollar la lógica para resolver el problema.
+
 // Creamos un Array vacio llamado listaAmigos que guardara los nombres que los usuarios ingresen
 const listaAmigos = [];
 
