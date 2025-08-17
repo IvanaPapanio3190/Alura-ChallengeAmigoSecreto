@@ -85,8 +85,29 @@ Esta aplicación web permite registrar participantes para un juego de Amigo Secr
 
 ---
 
-## aprendizajes y mejoras futuras 
+## Aprendizajes y mejoras futuras 
 
+  - Aprendizajes
+
+   Durante el desarrollo de este challenge aprendí:
+
+      - Manipulación del DOM en JavaScript.
+
+      - Uso de arrays y funciones como push(), sort() y Math.random().
+
+      - Buenas prácticas con addEventListener() y validaciones de entrada.
+
+      - Importancia de separar la lógica en funciones claras.
+
+ - Mejoras Futuras
+
+      - Implementar un sistema de asignación múltiple (todos reciben su amigo secreto, no solo uno).
+
+      - Guardar y mostrar la lista de resultados en el navegador con LocalStorage.
+
+      - Mejorar la interfaz visual con CSS y estilos modernos.
+
+      - Posibilidad de compartir los resultados vía correo o WhatsApp.
 
 
 
