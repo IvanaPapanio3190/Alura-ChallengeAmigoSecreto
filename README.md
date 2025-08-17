@@ -15,7 +15,8 @@
 - [Tecnologías Utilizadas](#tecnologías-utilizadas)  
 - [Instrucciones de Uso](#instrucciones-de-uso)  
 - [Instalación y Ejecución](#instalación-y-ejecución)  
-- [Capturas y Resultados](#capturas-y-resultados)  
+- [Capturas y Resultados](#capturas-y-resultados)
+- [Diagrama de Flujo](#diagrama-de-flujo)
 - [Aprendizajes y Mejoras Futuras](#aprendizajes-y-mejoras-futuras)  
 - [Autor](#Autor)
 
@@ -119,6 +120,14 @@ Así se completa el flujo principal de la aplicación.
 
 
 ![Resultado Sorteado](https://github.com/IvanaPapanio3190/Alura-ChallengeAmigoSecreto/blob/main/Challenge-AmigoSecreto/resources/resultado_sorteado.jpg)
+
+
+
+---
+
+## Diagrama de Flujo
+
+Este diagrama muestra cómo se procesa el flujo del Amigo Secreto, desde el ingreso de participantes hasta el resultado del sorteo.
 
 
 
