@@ -90,13 +90,11 @@ Esta aplicación web permite registrar participantes para un juego de Amigo Secr
   - Aprendizajes
 
    Durante el desarrollo de este challenge aprendí:
-
+       
        - Manipulación del DOM en JavaScript.
-
+       
        - Uso de arrays y funciones como push(), sort() y Math.random().
-
-       - Buenas prácticas con addEventListener() y validaciones de entrada.
-
+       
        - Importancia de separar la lógica en funciones claras.
 
  - Mejoras Futuras
