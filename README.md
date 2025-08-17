@@ -71,14 +71,11 @@ Esta aplicación web permite registrar participantes para un juego de Amigo Secr
 - Presionar **Sortear Amigo** para seleccionar un amigo secreto al azar
 
 
-
-
-
-
-
 ---
 
 ## Capturas y resultados
+
+
 
 
 
@@ -113,25 +110,15 @@ Esta aplicación web permite registrar participantes para un juego de Amigo Secr
 
 
 ## Autor
-
-Made by: Ivana Papaño
-
-        - Email [ivana.papanio@gmail.com]
-      
-        - GitHub[Ivana Papaño](https://github.com/IvanaPapanio3190)
-      
-        - Linkedin (https://www.linkedin.com/in/ivana-papano)
-
-
-## Autor  
+ 
 
 Made by: Ivana Papaño
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ivana.papanio@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/IvanaPapanio3190/Alura-ChallengeAmigoSecreto/edit/main)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/IvanaPapanio3190/Alura-ChallengeAmigoSecreto)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivana-papano)
 
 
 
-
+---
 
