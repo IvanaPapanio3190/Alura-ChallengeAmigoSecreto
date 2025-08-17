@@ -125,9 +125,13 @@ Así se completa el flujo principal de la aplicación.
 
 ---
 
+
 ## Diagrama de Flujo
 
 Este diagrama muestra cómo se procesa el flujo del Amigo Secreto, desde el ingreso de participantes hasta el resultado del sorteo.
+
+
+![Diagrama de Flujo](https://github.com/IvanaPapanio3190/Alura-ChallengeAmigoSecreto/blob/main/Challenge-AmigoSecreto/resources/flowchart_amisecreto.png)
 
 
 
