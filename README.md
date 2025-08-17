@@ -81,7 +81,7 @@ Esta aplicación web permite registrar participantes para un juego de Amigo Secr
 La pantalla inicial muestra el campo de entrada donde se pueden agregar los nombres de los participantes, junto con los botones para añadir un nombre a la lista y para realizar el sorteo del amigo secreto. Esta vista permite al usuario interactuar de forma sencilla y entender rápidamente cómo usar la aplicación.
 
 
-![pantalla_inicial](./resources/pantalla_inicial.jpg)
+![Pantalla Inicial](./resources/pantalla_inicial.jpg)
 
 
 
@@ -89,7 +89,7 @@ La pantalla inicial muestra el campo de entrada donde se pueden agregar los nomb
 
 Aquí se puede ver un ejemplo con varios nombres ya añadidos a la lista. La lista se actualiza dinámicamente a medida que se ingresan nuevos participantes, permitiendo al usuario revisar y confirmar quiénes participarán en el sorteo.
 
-![ingreso_lista_nombres](./resources/ingreso_lista_nombres.jpg)
+![Ingreso Lista Nombres](./resources/ingreso_lista_nombres.jpg)
 
 
 
@@ -98,7 +98,7 @@ Aquí se puede ver un ejemplo con varios nombres ya añadidos a la lista. La lis
 Esta captura muestra cómo se visualiza el resultado del sorteo, indicando qué persona le ha tocado a quién. De esta forma, el usuario puede ver el resultado final de manera clara y directa, completando el flujo principal de la aplicación.
 
 
-![resultado_sorteado](./resources/resultado_sorteado.jpg)
+![Resultado Sorteado](./resources/resultado_sorteado.jpg)
 
 
 ---
