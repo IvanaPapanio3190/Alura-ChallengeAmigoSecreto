@@ -154,7 +154,7 @@ Así se completa el flujo principal de la aplicación.
 
 ## Autor
  
-# Made by: Ivana Papaño
+### Made by: Ivana Papaño
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ivana.papanio@gmail.com) 
  
