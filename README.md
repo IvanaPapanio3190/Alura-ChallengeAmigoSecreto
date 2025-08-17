@@ -116,11 +116,11 @@ Esta aplicación web permite registrar participantes para un juego de Amigo Secr
 
 Made by: Ivana Papaño
 
-      - Email: ivana.papanio@gmail.com
+       - Email [ivana.papanio@gmail.com]
       
-      - GitHub: [Ivana Papaño](https://github.com/IvanaPapanio3190)
+       - GitHub[Ivana Papaño](https://github.com/IvanaPapanio3190)
       
-      - Linkedin: (https://www.linkedin.com/in/ivana-papano)
+       - Linkedin (https://www.linkedin.com/in/ivana-papano)
   
 
 
