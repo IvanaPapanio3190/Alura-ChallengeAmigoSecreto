@@ -98,6 +98,9 @@ Aquí se puede ver un ejemplo con varios nombres ya añadidos a la lista. La lis
 Esta captura muestra cómo se visualiza el resultado del sorteo, indicando qué persona le ha tocado a quién. De esta forma, el usuario puede ver el resultado final de manera clara y directa, completando el flujo principal de la aplicación.
 
 
+![resultado_sorteado](https://github.com/IvanaPapanio3190/Alura-ChallengeAmigoSecreto/blob/main/Challenge-AmigoSecreto/resources/resultado_sorteado.jpg)
+
+
 ---
 
 ## Aprendizajes y mejoras futuras 
