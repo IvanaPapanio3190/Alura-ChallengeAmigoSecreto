@@ -87,15 +87,15 @@ Esta aplicación web permite registrar participantes para un juego de Amigo Secr
 
 ## Aprendizajes y mejoras futuras 
 
-  - Aprendizajes
+ - Aprendizajes
 
    Durante el desarrollo de este challenge aprendí:
        
-       - Manipulación del DOM en JavaScript.
+      - Manipulación del DOM en JavaScript.
        
-       - Uso de arrays y funciones como push(), sort() y Math.random().
+      - Uso de arrays y funciones como push(), sort() y Math.random().
        
-       - Importancia de separar la lógica en funciones claras.
+      - Importancia de separar la lógica en funciones claras.
 
  - Mejoras Futuras
 
@@ -116,9 +116,11 @@ Esta aplicación web permite registrar participantes para un juego de Amigo Secr
 
 Made by: Ivana Papaño
 
-- Email: ivana.papanio@gmail.com
-- GitHub: [Ivana Papaño](https://github.com/IvanaPapanio3190)
-- Linkedin: (https://www.linkedin.com/in/ivana-papano)
+      - Email: ivana.papanio@gmail.com
+      
+      - GitHub: [Ivana Papaño](https://github.com/IvanaPapanio3190)
+      
+      - Linkedin: (https://www.linkedin.com/in/ivana-papano)
   
 
 
